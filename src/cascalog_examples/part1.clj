@@ -367,7 +367,7 @@
 ;;
 ;;
 ;; However in Cascalog it's very easy:
-;; you prject by country (which creates a group)
+;; you make a projection by country (which creates a group)
 ;; and in the group you sort by age, reverse
 ;; and take the top 2
 (run<-
